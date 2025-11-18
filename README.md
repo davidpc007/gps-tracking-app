@@ -50,3 +50,8 @@ Gestión de múltiples dispositivos simultáneamente.
 Serialización de datos para consumo desde Android.
 
 Preparación para comunicación en tiempo real mediante intervalos o eventos.
+
+<video width="320" height="240" controls>
+  <source src="./media/rastreo_tiempo_real.mp4" type="video/mp4">
+  Tu navegador no soporta el video.
+</video>
