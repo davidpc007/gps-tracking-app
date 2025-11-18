@@ -4,7 +4,7 @@ Aplicación Android (Java) para monitoreo satelital en tiempo real. Muestra la u
 
 * Resumen
 
-Nombre: GPS Tracking App (GPS360Tech)
+Nombre: GPS Tracking App (GPS)
 
 Plataforma: Android (Android Studio)
 
